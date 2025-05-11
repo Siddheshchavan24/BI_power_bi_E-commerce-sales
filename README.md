@@ -50,4 +50,4 @@ This **Power BI** project showcases an **Ecommerce Sales Dashboard** built to mo
 ## 👤 **Author**
 **[siddhesh chavan]**  
 🎓 2nd Year Data Science Student | 📊 Power BI Enthusiast  
-🔗 [View my GitHub profile]([https://github.com/yourusername](https://github.com/Siddheshchavan24))
+🔗 [View my GitHub profile](https://github.com/yourusername)
