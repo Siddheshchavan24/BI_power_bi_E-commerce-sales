@@ -1,69 +1,53 @@
-# BI_power_bi_E-commerce-sales
-📊 Ecommerce Sales Dashboard - Power BI Project
+# 📊 **Ecommerce Sales Dashboard – Power BI Project**
 
-🚀 Project Overview
-This Power BI project visualizes an Ecommerce Sales Dashboard developed to monitor and analyze key business metrics such as total sales, customer behavior, order trends, and product/category performance.
+![Dashboard Preview](./photo.png)
 
-The goal is to enable data-driven decision-making by providing a comprehensive and interactive view of ecommerce performance using real-time visual insights.
+## 🚀 **Project Overview**
+This **Power BI** project showcases an **Ecommerce Sales Dashboard** built to monitor and analyze key business KPIs including total sales, customer trends, product performance, and order statistics.
 
-📌 Key Features
-1.51M Total Sales and 7320 Orders
+> 🔍 **Goal:** Enable **data-driven decision-making** using interactive and real-time visual insights.
 
-Monthly Sales Trend Visualization
+## 📌 **Key Features**
+- 🛒 **1.51M Total Sales** and **7320 Orders**
+- 📊 **Monthly Sales Trend Visualization**
+- 🧾 **Category-wise Sales Breakdown**
+- 💳 **Payment Method Analytics**
+- 🏆 **Top Performing Products**
+- 🎛️ **Interactive Filters** (Month, Category, Payment Method)
+- 🎨 **Clean UI with Donut, Line, and Bar Charts**
 
-Category-wise Sales Analysis
+## 🧠 **Insights Generated**
+- 📈 **Peak Sales Month:** *October 2024* with **152K sales**
+- 🧥 **Top Category by Revenue:** *Clothing* – **15.23%**
+- 💳 **Popular Payment Methods:** UPI, Credit/Debit Card, COD, Net Banking
+- 💰 **Average Order Value:** **₹206.91**
+- 🔖 **Average Discount Offered:** **18.83%**
 
-Payment Method Distribution
+## 📂 **Files Included**
+| File Name                     | Description                            |
+|------------------------------|----------------------------------------|
+| `sales.pbix`                 | Power BI Dashboard file                |
+| `ecommerce_dataset_updated.csv` | Cleaned ecommerce dataset           |
+| `query.sql`                  | SQL queries for data transformation    |
+| `POSTGRES_DATA_SQL.csv`      | Raw data exported from PostgreSQL      |
+| `bi.pdf`                     | PDF Report documentation               |
+| `photo.png`                  | Dashboard screenshot                   |
 
-Top Performing Products
 
-Interactive filters (Month, Category, Payment Method)
+## 🛠️ **Tools & Technologies Used**
+- 🧩 **Power BI** – Data Modeling & Visualization  
+- 🗃️ **PostgreSQL** – Data Querying & Extraction  
+- 💾 **CSV / Excel** – Data Handling  
+- 🧪 **SQL** – Data Transformation  
+- 🐙 **Git & GitHub** – Version Control & Collaboration
 
-Clean and responsive UI with donut and bar charts
+## ▶️ **How to Use**
+1. **Clone or download** this repository.
+2. Open the `sales.pbix` file using **Power BI Desktop**.
+3. Explore the **interactive dashboard** using slicers and filters.
+4. Review the PDF report (`bi.pdf`) for summarized insights.
 
-🧠 Insights Generated
-📈 Peak Sales Month: October 2024 with 152K in sales
-
-🛍 Top Category by Revenue: Clothing (15.23%)
-
-💳 Payment Methods Tracked: UPI, Net Banking, Credit/Debit Cards, COD
-
-💰 Average Order Value: 206.91
-
-🧾 Average Discount Given: 18.83
-
-📂 Files Included
-File	Description
-sales.pbix	Power BI Dashboard file
-ecommerce_dataset_updated.csv	Cleaned dataset used for analysis
-query.sql	SQL queries used for data preparation
-POSTGRES_DATA_SQL.csv	Raw data extracted from PostgreSQL
-bi.pdf	Report documentation
-photo.png	Screenshot of the dashboard
-
-🛠 Tools & Technologies
-Power BI – Data modeling & visualization
-
-PostgreSQL – Data storage and querying
-
-SQL – Data cleaning and transformation
-
-CSV – Data import/export
-
-Git & GitHub – Version control and sharing
-
-📌 How to Use
-Download the .pbix file.
-
-Open in Power BI Desktop.
-
-Connect to the dataset if prompted.
-
-Explore the visuals and use filters for custom insights.
-
-👤 Author
-[Your Name]
-2nd Year Data Science Student | Power BI Enthusiast
-📫 Connect with me on LinkedIn
-📁 View this project on GitHub
-
+## 👤 **Author**
+**[siddhesh chavan]**  
+🎓 2nd Year Data Science Student | 📊 Power BI Enthusiast  
+🔗 [View my GitHub profile]([https://github.com/yourusername](https://github.com/Siddheshchavan24))
